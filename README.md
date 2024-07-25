@@ -1,0 +1,1 @@
+# Alternating-group-A4-Rotation-of-a-tetrahedral
